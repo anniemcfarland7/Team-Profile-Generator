@@ -7,7 +7,7 @@ The application uses the inquirer package, and will be invoked by using the foll
 node index.js
 
 Repository URL: https://github.com/anniemcfarland7/Team-Profile-Generator
-Walkthrough Video URL: https://drive.google.com/file/d/1a0cpG3UnPDOUg1nKLZqAawVMHxfhBQpM/view?usp=sharing
+Walkthrough Video URL: https://drive.google.com/file/d/1wC4EP3U-g_s5TDbDwPcrr5HtVw-DCsY_/view?usp=sharing
 
 ## Walkthrough Video
 

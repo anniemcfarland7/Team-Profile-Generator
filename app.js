@@ -112,7 +112,7 @@ const intern = () =>
         },
         {
             type: 'input',
-            name: 'github',
+            name: 'school',
             message: "What is the intern's school?",
         },
     ]).then((answers) => {
